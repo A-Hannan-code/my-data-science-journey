@@ -16,7 +16,7 @@ It contains projects, practice notebooks, and experiments — starting from Pyth
 ## 📂 Projects  
 
 ### 1. Coders of Delhi  
-A small social network dataset project built with **pure Python** (no NumPy/Pandas yet).  
+A small social network dataset project built with **pure Python** .  
 
 Features:  
 - Finding *People You May Know*  
