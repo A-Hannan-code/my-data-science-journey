@@ -1,28 +1,34 @@
-# 🧑‍💻 My Data Science Journey
+# 🧑‍💻 My Data Science Journey  
 
-Welcome to my Data Science learning path! This repo tracks my progress, projects, and experiments as I move from Python basics to real-world data science applications.
+This repository documents my learning path as I progress through **Data Science**.  
+It contains projects, practice notebooks, and experiments — starting from Python basics and moving towards real-world applications.  
 
 ---
 
 ## 🚀 Current Progress
-
-- ✅ **Conda Environment Setup**
-- ✅ **Python Refresher**
-- ✅ **Coders of Delhi** (social network mini-project in pure Python)
-- 🔜 **NumPy Basics** (arrays, indexing, slicing)
+- ✅ **Conda Environment Setup**  
+- ✅ **Python Refresher**  
+- ✅ **Coders of Delhi** (mini-project in pure Python)  
+- 🔄 **Learning NumPy Basics** (arrays, indexing, slicing)  
 
 ---
 
-## 📂 Projects
+## 📂 Projects  
 
 ### 1. Coders of Delhi  
-A small social network dataset project that includes:  
+A small social network dataset project built with **pure Python** (no NumPy/Pandas yet).  
+
+Features:  
 - Finding *People You May Know*  
 - Finding *Pages You Might Like*  
-- Tools: Python (lists, dicts, sets), JupyterLab  
+
+Tools used:  
+- Python (lists, dicts, sets)  
+- JupyterLab  
 
 ---
 
-## 📌 Notes
-This repo is the backbone of my Data Science journey.  
-Each folder will contain Jupyter notebooks for projects, practice, and experiments.
+## 📌 Notes  
+- Each folder will contain Jupyter notebooks for projects, practice, and experiments.  
+- This repo grows as I learn new concepts (NumPy → Pandas → Visualization → ML).  
+
