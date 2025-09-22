@@ -22,5 +22,4 @@ A small social network dataset project built with pure Python.
 
 ## 📌 Notes
 Each folder will contain Jupyter notebooks for projects, practice, and experiments.
-This repo grows as I learn new concepts (NumPy → Pandas → Visualization → ML).
-This repo grows as I learn new concepts (NumPy → Pandas → Visualization → ML).
+This repo grows as I learn new concepts (Pandas → Visualization → ML).
