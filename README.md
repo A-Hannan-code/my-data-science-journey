@@ -5,8 +5,8 @@
 - ✅ Python Refresher
 - ✅ Coders of Delhi (mini-project in pure Python)
 - ✅ NumPy Basics (arrays, indexing, slicing)
-- 👀 Eyes on Pandas (next step in data analysis)
-
+- ✅ Pandas (Data analysis)
+- 👀 Eyes on Data Visualization (using Matplotlib & Seaborn)
 ## 📂 Projects
 
 ### 1. Coders of Delhi
